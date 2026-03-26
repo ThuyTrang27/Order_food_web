@@ -22,13 +22,3 @@ Dự án website đặt món ăn trực tuyến được xây dựng bằng **Re
 ### ⚙️ Hệ thống & Dữ liệu
 * **Dữ liệu**: Fetch API / Mock data để mô phỏng luồng dữ liệu thực tế.
 * **Công cụ**: Vite / Create React App, Git & GitHub.
-
----
-
-## 📦 Hướng dẫn cài đặt (Installation)
-
-Nếu bạn muốn chạy dự án này ở máy cục bộ, hãy làm theo các bước sau:
-
-1. **Clone repository:**
-   ```bash
-   git clone [https://github.com/nguyenthuytrang2021bd/Order-food-web.git](https://github.com/nguyenthuytrang2021bd/Order-food-web.git)
