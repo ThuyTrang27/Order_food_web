@@ -20,5 +20,4 @@ Dự án website đặt món ăn trực tuyến được xây dựng bằng **Re
 * **Styling**: CSS3 / Styled-components (Tạo giao diện hiện đại, dễ tùy chỉnh).
 
 ### ⚙️ Hệ thống & Dữ liệu
-* **Dữ liệu**: Fetch API / Mock data để mô phỏng luồng dữ liệu thực tế.
 * **Công cụ**: Vite / Create React App, Git & GitHub.
